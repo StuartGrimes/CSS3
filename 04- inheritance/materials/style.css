@@ -1,0 +1,20 @@
+.maindoc{
+    width: 51%;
+    margin: auto;
+}
+
+h1, h2, h3, h4{
+        color:rgb(232, 147, 22);
+        font-size: 2em;
+}
+p{
+    color: rgb(232, 18, 21);
+    font-size: 1.2em;
+    padding-left: 10px;
+    margin-left: 80px;
+    border-left: solid 18px rgb(232, 147, 22);
+}
+
+ul li{
+    color:rgb(232, 147, 22);
+}

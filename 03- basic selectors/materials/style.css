@@ -1,0 +1,41 @@
+img {
+    width: 760px;
+    height: 198px;
+    margin: auto;
+}
+body {
+    background-color: yellow;
+}
+hr {
+    width: 95%;
+    color: green;
+    font-size: 3px;
+    border-color: green;
+}
+#container img {
+    margin: auto;
+}
+#container {
+    width: 768px;
+    margin: auto;
+    background-color: white;
+    /*box-shadow: 0 0 0 5px #aaa;*/
+    box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.8), 0 16px 30px 0 rgba(0, 0, 0, 0.39);
+}
+h1, p, h2, h3 {
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.paraheadingcolor {
+    color: rgb(232, 134, 48);
+}
+.pcolor {
+    color: red;
+}
+.sidenote {
+    background-color: rgb(227, 232, 48);
+    border: dotted 6px;
+    border-color: rgb(232, 134, 48);
+    padding: 20px;
+}
